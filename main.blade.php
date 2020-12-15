@@ -40,10 +40,7 @@
                      </div>
                 </div>
             </div>
-            <div class="w-1/4 pl-2  mt-2 mb-4 font-perso">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, voluptas soluta. Nisi, ex magnam, error quod eaque quidem voluptates nihil excepturi, mollitia ea quae repellat. Perferendis nam veniam quo debitis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque, est doloremque, voluptates reiciendis minima quo reprehenderit quibusdam illo libero a, perspiciatis at illum repudiandae? Reprehenderit voluptates consequuntur animi incidunt asperiores!
-              <h1>je suis leruss</h1>
-            </div>
+            
         </div>
         <div class="container mx-auto flex">
             <div class="w-3/4    font-perso">
